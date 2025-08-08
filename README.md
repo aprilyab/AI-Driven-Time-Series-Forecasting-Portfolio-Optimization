@@ -114,29 +114,6 @@ Data includes daily Open, High, Low, Close prices, Volume, and Adjusted Close pr
 
 ---
 
-## Team and Key Dates  
-
-**Tutors:**  
-- Mahlet  
-- Rediet  
-- Kerod  
-- Rehmet  
-
-**Key Dates:**  
-- Discussion on the case: Wednesday 06 Aug 2025 (#all-week11 channel)  
-- Interim Solution Submission: Sunday 10 Aug 2025, 20:00 UTC  
-- Final Submission Deadline: Tuesday 12 Aug 2025, 20:00 UTC  
-
----
-
-## Instructions and Deliverables  
-- Follow the tasks as outlined above.  
-- Submit code on GitHub with clear documentation and instructions.  
-- Provide a professional PDF report or detailed technical blog post as final deliverable.  
-- Include visuals, insights, and code screenshots as appropriate.  
-
----
-
 ## References  
 
 ### Data Science & Time Series Forecasting  
@@ -164,3 +141,4 @@ For questions or feedback:
 ---
 
 *Thank you for your interest in the Time Series Forecasting and Portfolio Optimization project.*
+
